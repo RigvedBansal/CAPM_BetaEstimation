@@ -1,4 +1,4 @@
-# CAPM Beta Estimation Using Custom Gradient Descent
+# Quantitative CAPM Analysis of Indian Stocks using Market Return Regression
 
 ## Overview
 
